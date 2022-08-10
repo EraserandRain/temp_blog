@@ -3,7 +3,6 @@ home: true
 modules:
   - BannerBrand
   - Blog
-  - Footer
 bannerBrand:
   heroImage: /logo.png
   heroImageStyle:
@@ -18,12 +17,6 @@ bannerBrand:
     height: '450px'
   heroText: EraserRain's Blog
 isShowTitleInHome: true
-footer:
-  record: 域名备案文案
-  recordLink: 域名备案地址
-  cyberSecurityRecord: 公安备案文案
-  cyberSecurityLink: 公安备案地址
-  startYear: 2018
 ---
 
 
